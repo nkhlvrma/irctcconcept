@@ -18,6 +18,6 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Design Inspiration =>
+## Design Inspiration =>
 
 <img width="1440" alt="Desktop - 3" src="https://github.com/nkhlvrma/irctcconcept/assets/92712364/6fcd13c7-34a8-4f0f-8ef9-2d79f4b16c98">
