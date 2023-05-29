@@ -1,8 +1,9 @@
 import Feed from "@components/Feed";
+import Booking from "@components/Booking";
 
 const Home = () => {
   return (
-    <section className="w-full flex-center flex-col">
+    <section className="flex-center flex-col w-auto">
       <div className="w-full flex-left flex-col"> 
         <h1 className="head_text  text-left" >
           Your ticket booking just got a 
@@ -12,7 +13,7 @@ const Home = () => {
           Book tickets, flights, hotels, buses and so much more.
         </p>
         </div>
-
+      <Booking />
       <Feed />
     </section>
   )

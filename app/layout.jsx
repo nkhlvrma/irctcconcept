@@ -1,9 +1,10 @@
 import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
+
 export const metadata = {
-    tite: "Prompts",
-    description: "The best way to share AI prompts on the internet."
+    tite: "IRCTC",
+    description: "Book train, flights, bus tickets and more on IRCTC"
 }
 
 const RootLayout = ({ children }) => {
@@ -17,6 +18,7 @@ const RootLayout = ({ children }) => {
             <main className="app">
                 <Nav />
                 {children}
+                
             </main>
         </body>
     </html>
